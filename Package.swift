@@ -1,7 +1,4 @@
-///
-/// Copyright (c) 2016 Dropbox, Inc. All rights reserved.
-///
-
+// swift-tools-version:4.2
 import PackageDescription
 
 let package = Package(
